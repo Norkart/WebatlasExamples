@@ -1,0 +1,16 @@
+{
+  "name": "wa-tilelayer-browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mymap.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Atle Frenvik Sveen <atle@frenviksveen.net> (http://atlefren.net/)",
+  "license": "BSD-2-Clause",
+  "devDependencies": {},
+  "dependencies": {
+    "leaflet": "^0.7.7",
+    "leaflet-webatlastile": "0.0.8"
+  }
+}
